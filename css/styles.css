@@ -21,9 +21,7 @@ h1,h2,h3,h4,.lead,.btn,.navbar a {
   letter-spacing:2px;
 }
 
-h1 {
-  font-size:50px;
-}
+
 
 h2{
   color: black; 
@@ -65,7 +63,7 @@ img.grayscale {
 }
 
 .header .btn-lg {
-   font-size:28px;
+   font-size:2em;
    border-color:#eeeeee;
    padding:15px;
    background-color:transparent;
@@ -97,7 +95,7 @@ img.grayscale {
 
     
 .header h1 {
-  font-size:80px;
+  font-size:3em;
   -webkit-text-stroke: 1px rgba(f,f,f,0.1);
   color:#431a6d;
 /*  color:#fff;*/
@@ -108,11 +106,11 @@ img.grayscale {
 
 .header .lead {
   color:#d46054;
-  font-size:25px;
+  font-size:2em;
 }
 
 .header {
-  height: 30%;
+  height: 50%;
   background: #f68076 url('../assets/confectionary.png') repeat center center fixed;
 }
 
@@ -139,17 +137,13 @@ img.grayscale {
 .blurb {
   padding: 60px 0;
   background-color:#fefefe;
-  height: 80%;
+  height: 50%;
 }
 
 .blurb .panel {
   background-color:transparent;
 }
 
-.bright {
-  background: #dbdbdb url('../assets/pt_topo.png') repeat center center fixed; 
-  color:#777;
-}
 
 .featurette {
   background: #222334;
@@ -180,7 +174,7 @@ img.grayscale {
 .skills{
   color: #ffffff;
   padding-top:7%;
-  height: 80%;
+  height: 60%;
   width: 100%;
   background-color: #282529; 
 
@@ -193,9 +187,9 @@ img.grayscale {
 .callout {
   color: #ffffff;
   padding-top:7%;
-  height: 30%;
+  height: 50%;
   width: 100%;
-  background: url('../assets/frothymonkey.jpg') no-repeat center center fixed; 
+  background: url('../assets/frothymonkeysmall.jpg') no-repeat center center fixed; 
 
   -webkit-background-size: cover;
   -moz-background-size: cover;
